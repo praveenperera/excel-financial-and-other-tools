@@ -10,7 +10,7 @@ This repo is a collection of small excel spreadsheets developed for my own perso
 
 **Mutual Fund Comparison** - this tool asks you to enter yearly returns of a group of mutual funds you would like to compare. Then it shows each fund's return over the last 10 years, its risk (standard deviation), how it performed over the last 10 years in terms of real money and how it recovered from the crash in 2008.
 
-**GPA Converter** - converts grades from the 4.3 system to the 4.0 system. Alls gives cumulative average, year average and last 2 years average 
+**GPA Converter** - converts grades from the 4.3 system to the 4.0 system. Also gives cumulative average, year average and last 2 years average 
 
 
 ## License
