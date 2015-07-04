@@ -14,6 +14,8 @@ This repo is a collection of small excel spreadsheets developed for my own perso
 
 **Cash Back Calculator** - you enter your estimated monthly expenses in 4 categories and it calculates the cashback you would earn if you were to use a credit card with cashback rewards
 
+**Total Cost of Borrowing** - you enter the amount of money you owe, the interest rate and the monthly of bi-weekly payments, it then calculates how long it will take to pay off the debt and the total cost of borrowing
+
 **GPA Converter** - converts grades from the 4.3 system to the 4.0 system. Also gives cumulative average, year average and last 2 years average 
 
 
